@@ -93,7 +93,7 @@ Dieser Befehlsnamen bzw. der dazugehörige String muss dann im Asterics-Grid fü
 </p>
 
 <p align="center">
-<img src="Pics/konfig_fernseher_AnAus.jpg" width"700" height="650">
+<img src="Pics/konifg_fernseher_AnAus.jpg" width"700" height="650">
 </p>
     
     
