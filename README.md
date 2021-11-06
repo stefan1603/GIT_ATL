@@ -120,7 +120,7 @@ Bei dem Versuch wurde drei verschiedene Arten verwendet um sich durch das UI zu 
 
 ### Keyborad/Fabi-Button
 <p align="center">
-<img src="Fotos_FittsTask/CameraMouse_Button_FABI.jpg" width"300" height="200">
+<img src="Fotos_FittsTask/CamerMouse_Button_FABI.jpg" width"300" height="200">
 </p>
 
 
