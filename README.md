@@ -105,10 +105,25 @@ Bei dem Versuch wurde drei verschiedene Arten verwendet um sich durch das UI zu 
     - Keyboard/Fabi-Button
         
 
-#MouseButton
+### MouseButton
+
+<p align="center">
+<img src="Fotos_FittsTask/CameraMouse_mousebutton.jpg" width"300" height="200">
+</p>
+
+### Dwelling Methode
+
+<p align="center">
+<img src="Fotos_FittsTask/CameraMouse_dwell.jpg" width"300" height="200">
+</p>
 
 
-#Dwelling Methode
+### Keyborad/Fabi-Button
+<p align="center">
+<img src="Fotos_FittsTask/CameraMouse_Button_FABI.jpg" width"300" height="200">
+</p>
 
 
-#Keyborad/Fabi-Button
+Wie man eindeutig sieht hat die Dwelling-Methode einen wesentlich höheren TP und die am anwendungsfreundlichste Methode ist. Die anderen beiden Methoden sind hier fast ident. 
+Bei der durchschnitllichen Dauer zur Erfüllung einer Bewegung, kurz MP, schneidet auch die Dwelling-Methode am Besten ab. 
+
