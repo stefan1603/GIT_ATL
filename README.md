@@ -97,4 +97,18 @@ Dieser Befehlsnamen bzw. der dazugehörige String muss dann im Asterics-Grid fü
 </p>
     
     
-    
+Um die UX (User Experience) und Anwendungsfreundlichkeit des ganzen Systems zu testen wurde der FittsTask angewandt. Dieses liegt dem allgemeinen Fitt's Law zugrunde. Es ist ein prädiktives Modell, welches die Dauer für menschliche Bewegungen bei Zeigeaufgaben vorhersagt bzw. auswerten lässt. Dabei verwendet es die Distanz zum Ziel, sowie dessen Größe als Parameter
+Bei dem Versuch wurde drei verschiedene Arten verwendet um sich durch das UI zu navigieren. 
+
+    - MouseButton
+    - Dwelling Methode
+    - Keyboard/Fabi-Button
+        
+
+#MouseButton
+
+
+#Dwelling Methode
+
+
+#Keyborad/Fabi-Button
