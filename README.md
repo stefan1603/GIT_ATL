@@ -127,3 +127,41 @@ Bei dem Versuch wurde drei verschiedene Arten verwendet um sich durch das UI zu 
 Wie man eindeutig sieht hat die Dwelling-Methode einen wesentlich höheren TP und die am anwendungsfreundlichste Methode ist. Die anderen beiden Methoden sind hier fast ident. 
 Bei der durchschnitllichen Dauer zur Erfüllung einer Bewegung, kurz MP, schneidet auch die Dwelling-Methode am Besten ab. 
 
+
+# Eingabegerät FABI
+
+## 1. BESCHREIBUNG
+FABI - Flexible Assistive Button Interface, hat bis 9 externe Taste und kann auf Windows-PC, Mac-Computer, 
+Tablet oder Smartphone mit USB-Anschluss verwendet werden.
+Kann verwendet werden um Computerspiele zu spielen, im Internet zu Surfen, E-mails zu schreiben usw.
+(file:///C:/Users/Dana/Downloads/FABI_UserManual.pdf)
+
+## 2. DIE KONFIGURATION
+<p align="center">
+<img src="Pics/fabi_konf.jpg" width"500" height="450">
+</p>
+
+
+### 2.1. Auf den Online Seite würde die Buttons konfiguriert
+(https://asterics.github.io/Addon-Bluetooth-WebGUI/webgui/index_fabi.htm#tabActions)
+
+ Button1 würde erstellt als KEY_RIGHT um in das Asterics Grid nach recht navigiere zu können, 
+und das Button2 als KEY_SPACE, damit kann man leerstelle haben, oder im Asterics ein Befehl auswählen. 
+
+<p align="center">
+<img src="Pics/button_1.jpg" width"500" height="450">
+</p>
+
+<p align="center">
+<img src="Pics/button_2.jpg" width"500" height="450">
+</p>
+
+
+
+### 2.2. In Asterics Grid würde auch bei Eingabeoption, für das Fabi konfiguerieren mussen.
+Asterics -> Eingabeoption-> Sequentielle Eingabe
+
+<p align="center">
+<img src="Pics/eingabe_opt.jpg" width"500" height="450">
+</p>
+
