@@ -165,3 +165,8 @@ Asterics -> Eingabeoption-> Sequentielle Eingabe
 <img src="Pics/eingabe_opt.jpg" width"500" height="450">
 </p>
 
+## 3. DIE VERWENDUNG 
+Da der Kunde nur das große Zehe bewegen und das rechter Arm leicht heben/senken kann, haben wir zwei Knöpfe genommen.
+Die blaue Knöpf(Button1) würde gedacht als nach rechts zu navigieren, mit die Zehe, 
+und das rote Knöpf(Button2) würde gedacht als ein Space nutzen zu können, mit das rechter Arm.
+Würde so gedacht, weil mit das Zehe kann man leichter bewegen um mehrmals drücken zu können, als das Hand oftmals heben zu mussen.
