@@ -131,9 +131,9 @@ Bei der durchschnitllichen Dauer zur Erfüllung einer Bewegung, kurz MP, schneid
 # Eingabegerät FABI
 
 ## 1. BESCHREIBUNG
-FABI - Flexible Assistive Button Interface, hat bis 9 externe Taste und kann auf Windows-PC, Mac-Computer, 
-Tablet oder Smartphone mit USB-Anschluss verwendet werden.
-Kann verwendet werden um Computerspiele zu spielen, im Internet zu Surfen, E-mails zu schreiben usw.
+FABI - Flexible Assistive Button Interface, hat bis 9 externe Tasten und kann auf Windows-PC, Mac-Computer, 
+Tablet oder Smartphone per USB-Anschluss verwendet werden.
+Mit dem FABI sind Computerspiele, im Internet zu Surfen, E-mails schreiben und vieles mehr möglich. 
 (file:///C:/Users/Dana/Downloads/FABI_UserManual.pdf)
 
 ## 2. DIE KONFIGURATION
@@ -145,8 +145,8 @@ Kann verwendet werden um Computerspiele zu spielen, im Internet zu Surfen, E-mai
 ### 2.1. Auf den Online Seite würde die Buttons konfiguriert
 (https://asterics.github.io/Addon-Bluetooth-WebGUI/webgui/index_fabi.htm#tabActions)
 
- Button1 würde erstellt als KEY_RIGHT um in das Asterics Grid nach recht navigiere zu können, 
-und das Button2 als KEY_SPACE, damit kann man leerstelle haben, oder im Asterics ein Befehl auswählen. 
+Button1 wurde erstellt als KEY_RIGHT um im Asterics Grid nach recht navigieren zu können, 
+und der Button2 als KEY_SPACE, damit ist die normale Leertaste möglich bzw. einen Befehl im Asterics-Grid auszuwählen. 
 
 <p align="center">
 <img src="Pics/button_1.jpg" width"500" height="450">
@@ -166,7 +166,7 @@ Asterics -> Eingabeoption-> Sequentielle Eingabe
 </p>
 
 ## 3. DIE VERWENDUNG 
-Da der Kunde nur das große Zehe bewegen und das rechter Arm leicht heben/senken kann, haben wir zwei Knöpfe genommen.
-Die blaue Knöpf(Button1) würde gedacht als nach rechts zu navigieren, mit die Zehe, 
-und das rote Knöpf(Button2) würde gedacht als ein Space nutzen zu können, mit das rechter Arm.
-Würde so gedacht, weil mit das Zehe kann man leichter bewegen um mehrmals drücken zu können, als das Hand oftmals heben zu mussen.
+Da der Klient nur die große Zehe bewegen und den rechten Arm leicht heben/senken kann, hat man zwei Knöpfe genommen.
+Der blaue Knopf(Button1) wurde gedacht um nach rechts navigieren zu können(evtl. mit der Zehe).  
+Der rote Knopf(Button2) wurde gedacht um "Space" nutzen zu können (evtl. rechter Arm).
+
