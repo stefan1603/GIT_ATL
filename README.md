@@ -167,6 +167,60 @@ Asterics -> Eingabeoption-> Sequentielle Eingabe
 
 ## 3. DIE VERWENDUNG 
 Da der Klient nur die große Zehe bewegen und den rechten Arm leicht heben/senken kann, hat man zwei Knöpfe genommen.
-Der blaue Knopf(Button1) wurde gedacht um nach rechts navigieren zu können(evtl. mit der Zehe).  
-Der rote Knopf(Button2) wurde gedacht um "Space" nutzen zu können (evtl. rechter Arm).
+Der Button1 wurde gedacht um nach rechts navigieren zu können(evtl. mit der Zehe).  
+Der Button2 wurde gedacht um "Space" nutzen zu können (evtl. rechter Arm).
+
+# Accesibility Einstellungen
+Gerald kann mit seinen Augen, Kopfbewegungen und leichtem Heben / Senken seiner rechten Hand kommunizieren, weshalb wir Tobii EYE Tracker 4C,Click2Speak und Fabi verwendet haben.
+
+## Beschreibung:
+
+Der Tobii Eye Tracker 4C ist eine kleine Hardware, die auf Ihrem Bildschirm und über USB mit Ihrem Computer verwendet werden kann. Ihr Kopf und Ihre Augen bewegen sich, Sie können mit ihnen sprechen, Sie können sie auf dem Bildschirm finden. Die Nutzung der natürlichen Blitze der Nutzer als Gelegenheit zur Unterhaltung (wie Maus und Tastatur) bietet eine lebendige Verspieltheit und die Möglichkeit einer neuen Spielkunst. Zurück zu Tobii Eye Tracking mehr als 140 Spiele.
+
+<p align="center">
+<img src="Pics/einstellungen_tobi.jpg" width"500" height="450">
+</p>
+
+
+Click2Speak - ist eine virtuelle Tastatur, die mit einem Swiftkey Predictive Typing System erstellt wurde. Diese unterstützende Technologie eignet sich perfekt für Patienten mit Zerebralparese, Verletzungen des Wirbelkanals, Muskeldystrophie und anderen Problemen mit der motorischen Mobilität. Die Click2Speak-App kann auch von Personen verwendet werden, die Probleme mit herkömmlichen Tastaturen haben.
+
+Diese App ermöglicht es Benutzern, Texte in beliebigen Anwendungen einzugeben. Um mit Click2Speak arbeiten zu können, benötigen Benutzer einen alternativen Controller - einen Fußschalter, einen Kopfbewegungssensor oder ein Eye-Tracking-Gerät. Benutzer können immer den herkömmlichen Mausmanipulator verwenden.
+
+
+<p align="center">
+<img src="Pics/clicktospeak.jpg" width"500" height="450">
+</p>
+
+
+## Computer:
+
+Mit Fobii Eye Tracker kann er auf das Internet zugreifen, ein Spiel spielen, eine E-Mail auf seinem Computer schreiben Visuals erzeugen (Phillips Hue Go oder Infrarot Lampen).
+
+<p align="center">
+<img src="Pics/mail.jpg" width"500" height="450">
+</p>
+
+<p align="center">
+<img src="Pics/game.jpg" width"500" height="450">
+</p>
+
+## Telefon:
+
+Da Gerald nicht sprechen kann, haben wir das Telefon über die Windows Your Phone-App mit dem Laptop verbunden. Damit kann er sein Telefon am Computer benutzen (SMS schreiben / Anruf tätigen).
+<p align="center">
+<img src="Pics/your_phone.jpg" width"500" height="450">
+</p>
+
+
+# Der Aufbau
+
+Um das System als ganzes einzubinden hat man den Laptop auf einen Beistelltisch gemeinsam mit dem TOBII-Eyetracker positioniert. Die beiden Buttons je nach Einschränkung. In diesem Fall ein Button unten bei der großen Zehe und einer beim rechten Arm. 
+
+<p align="center">
+<img src="Pics/aufbau_1.jpg" width"400" height="750">
+</p>
+
+<p align="center">
+<img src="Pics/aufbau_2.jpg" width"400" height="750">
+</p>
 
